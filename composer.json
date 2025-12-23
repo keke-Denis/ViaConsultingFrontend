@@ -1,0 +1,5 @@
+{
+    "require": {
+        "stevebauman/location": "^7.6"
+    }
+}
